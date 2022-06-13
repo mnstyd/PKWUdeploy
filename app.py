@@ -6,7 +6,6 @@ from flask import Flask, render_template, request
 import numpy as np
 import pickle
 import math
-import ipapi
 
 app = Flask(__name__) 
 # template_folder='template'
